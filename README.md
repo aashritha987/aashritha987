@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/aashritha-danthala/">LinkedIn</a> •
   <a href="https://leetcode.com/u/aashritha-danthala/">LeetCode</a> •
   <a href="mailto:aashrithadanthala03@gmail.com">Email</a> •
-  <a href="https://aash-portfolio.framer.website/">Portfolio</a> •
+  <a href="https://aash-portfolio.framer.website/">Portfolio</a>
 </p>
 
 ---
